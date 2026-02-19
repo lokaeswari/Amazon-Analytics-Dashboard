@@ -43,4 +43,6 @@ The project uses a dataset of Spotify Top Songs containing:
 - Release Date / Monthly Data  
 
  Dashboard Preview
- Amazon Dashboard https://github.com/lokaeswari/Amazon-Analytics-Dashboard/blob/main/AMAZON.png
+ 
+ Amazon Dashboard
+ https://github.com/lokaeswari/Amazon-Analytics-Dashboard/blob/main/AMAZON.png
